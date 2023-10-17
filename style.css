@@ -1,0 +1,31 @@
+.container-fluid  .navbar-collapse .navbar-nav {
+margin: auto;
+gap: 10px;
+
+}
+nav{
+    background-color: #232D3F;
+
+}
+
+body {
+    background-color: #0F0F0F;
+}
+
+#sec1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#secc{
+    height: 80vh;
+}
+.one{
+    height: 100vh;
+}
+.WH{
+    height: 90vh;
+}
+.WS{
+    height: 90Vh;
+}
